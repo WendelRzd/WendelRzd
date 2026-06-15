@@ -2,7 +2,7 @@
 
 **`Desenvolvedor FrontEnd`**
 
-Eu sou Wendel Barros de Rezende, tenho 30 anos e moro em Aracaju-Se. Atualmente, estou cursando Análise e Desenvolvimento de Sistemas na Faculdade Estácio. Apaixonado por tecnologia e curioso por natureza 😄.
+Eu sou Wendel Barros de Rezende, tenho 30 anos e moro em Aracaju-Se. Atualmente, estou cursando Análise e Desenvolvimento de Sistemas na Faculdade Estácio. Apaixonado por tecnologia e curioso por natureza 😄. <br/>
 Sou desenvolvedor fullstack e meu objetivo é aprimorar cada vez mais o meu conhecimento. 
 <p align="left">
     <a href="https://www.linkedin.com/in/wendel-rezende-50422328a/">
